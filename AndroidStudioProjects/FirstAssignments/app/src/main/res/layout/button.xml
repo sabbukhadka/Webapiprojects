@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:rowCount="6"
+        android:columnCount="4"
+        >
+
+        <Button
+            android:id="@+id/Clear"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/ine"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_columnWeight="2"
+            android:text="4"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/rne"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:layout_columnWeight="3"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/une"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="0"
+            android:layout_column="3"
+            android:layout_columnWeight="4"
+            android:text="%"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Clyear"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_columnWeight="5"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/ilear"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cleoar"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="1"
+            android:layout_column="2"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cleir"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="1"
+            android:layout_column="3"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cljeir"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cljeir"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="2"
+            android:layout_column="1"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cljeir"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="2"
+            android:layout_column="2"
+            android:text="C"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/Cljeir"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_row="2"
+            android:layout_column="3"
+            android:text="C"
+            android:textSize="25sp" />
+
+
+    </GridLayout>
+</RelativeLayout>

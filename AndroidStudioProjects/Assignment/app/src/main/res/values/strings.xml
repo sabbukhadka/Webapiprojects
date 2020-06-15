@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">CalculateBMI</string>
+    <string name="very_severely_underweight">Very_severely_underweight</string>
+    <string name="severely_underweight">severely_underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal weight</string>
+    <string name="overweight">Over weight</string>
+    <string name="obese_class_i">Obese class I (Moderately)</string>
+    <string name="obese_class_ii">Obese class II (Moderately)</string>
+    <string name="obese_class_iii">Obese class III (Moderately)</string>
+
+    /*EMI CALCULATOR*/
+    <string name="loan_amount">Loan Amount</string>
+    <string name="interestrates">Interest Rates</string>
+    <string name="monthly">Term ( Months)</string>
+    <string name="btncalc">Calculate</string>
+
+
+</resources>

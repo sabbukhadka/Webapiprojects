@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="400dp">
+    <EditText
+        android:id="@+id/etradius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter radius"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"/>
+    <Button
+        android:id="@+id/btnarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Area of circle"
+        android:textColor="#ffffff"
+        android:layout_margin="10dp"/>
+
+
+</LinearLayout>

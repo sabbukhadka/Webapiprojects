@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListIntent</string>
+    <string-array name="country">
+        <item>Nepal</item>
+        <item>USA</item>
+        <item>Uk</item>
+        <item>Bhutan</item>
+        <item>Itlay</item>
+        <item>Canada</item>
+    </string-array>
+</resources>
